@@ -59,7 +59,7 @@
   - [Python bible book](http://www.diveintopython.net/)
   - [Python -  The hard way](http://learnpythonthehardway.org/book/)
 
-  - _Here must be links to some good Django/ASP.NET tutorials. You can suggest them._
+  - [Writing your first Django app](https://docs.djangoproject.com/en/1.11/intro/tutorial01/)
 
 ### Solved Examples:
   - [Rails Sample Apps](http://railsapps.github.com/)
